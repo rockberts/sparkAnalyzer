@@ -1,2 +1,2 @@
 usuario=rockberts
-clave=123456
+clave=1234567
